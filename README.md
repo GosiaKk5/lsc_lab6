@@ -1,5 +1,3 @@
-# Kubernetes NFS-Backed HTTP Server
-
 ## Prerequisites
 - kubectl
 - helm
